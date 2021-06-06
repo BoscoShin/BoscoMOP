@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ff9966</item>   // colorPrimary는 액션바 색상을 결정해줌
+        <item name="colorPrimaryDark">#ff9966</item>  //colorPrimaryDrak는 상태바(액션바 위에 있는 알림 또는 LTE가 있는 바) 색상을 결정해줌
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
