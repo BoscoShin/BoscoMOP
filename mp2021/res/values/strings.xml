@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mov1">갤러리1: 토이스토리</string>
+    <string name="mov2">갤러리1: 호빗</string>
+    <string name="mov3">갤러리1: 제임슨본</string>
+    <string name="mov4">갤러리1: 반지의제왕</string>
+    <string name="mov5">갤러리1: 정직한 후보</string>
+    <string name="mov6">갤러리1: 나쁜 녀석들</string>
+    <string name="mov7">갤러리1: 겨울왕국</string>
+    <string name="mov8">갤러리1: 알라딘</string>
+    <string name="mov9">갤러리1: 극한직업</string>
+    <string name="mov10">갤러리1: 스파이더맨</string>
+    <string name="mov11">갤러리2: 레옹</string>
+    <string name="mov12">갤러리2: 주먹왕랄프2</string>
+    <string name="mov13">갤러리2: 타짜</string>
+    <string name="mov14">갤러리2: 걸캅스</string>
+    <string name="mov15">갤러리2: 도굴</string>
+    <string name="mov16">갤러리2: 어벤져스 엔드게임</string>
+    <string name="mov17">갤러리2: 엑시트</string>
+    <string name="mov18">갤러리2: 캡틴마블</string>
+    <string name="mov19">갤러리2: 봉오동 전투</string>
+    <string name="mov20">갤러리2: 분노의 질주</string>
+    <string name="mov21">갤러리3: 아바타</string>
+    <string name="mov22">갤러리3: 힘을내요 미스터리</string>
+    <string name="mov23">갤러리3: 포드 vs 페라리</string>
+    <string name="mov24">갤러리3: 쥬만지</string>
+    <string name="mov25">갤러리3: 대부</string>
+    <string name="mov26">갤러리3: 국가대표</string>
+    <string name="mov27">갤러리3: 토이스토리3</string>
+    <string name="mov28">갤러리3: 마당을 나온 암탉</string>
+    <string name="mov29">갤러리3: 죽은 시인의 사회</string>
+    <string name="mov30">갤러리3: 서유쌍기</string>
+
+</resources>

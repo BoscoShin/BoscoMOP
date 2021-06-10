@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".home"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="vertical"
+            android:layout_margin="50dp">
+
+            <Gallery
+                android:id="@+id/garllery"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:spacing="30dp"/>
+
+
+            <ImageView
+                android:id="@+id/poster1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="vertical"
+            android:layout_margin="50dp" >
+
+            <Gallery
+                android:id="@+id/garllery2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:spacing="30dp"/>
+
+            <ImageView
+                android:id="@+id/poster2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"/>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="vertical"
+            android:layout_margin="50dp">
+
+
+            <Gallery
+                android:id="@+id/garllery3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:spacing="30dp"/>
+
+            <ImageView
+                android:id="@+id/poster3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="10"
+                />
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+</ScrollView>
